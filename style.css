@@ -19,7 +19,6 @@ body {
     background-color: rgba(250, 250, 250, 1.0);
     margin: auto;
     padding-top: 20px;
-    /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
 }
 
 .top-ribbon h2 {
